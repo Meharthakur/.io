@@ -19,7 +19,7 @@
   
       
       <hr><br><br>
-      <center><h1><b><a href="http://wynk.in/u/JC4TsaQe4">Explore New/Top EDM</a></b></h2></center>
+      <center><h1><b><a href="http://wynk.in/u/JC4TsaQe4">Explore New/Top EDM</a></b>
       <hr><br><br>
       <h2><a href="https://www.youtube.com/user/tseries">Subscribe T-Series</a><br><br>
       <a href="https://www.youtube.com/user/PewDiePie">Unsubscribe PewDiePie</a></h2>
