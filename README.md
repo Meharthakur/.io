@@ -1,6 +1,6 @@
 <html>
   
-    <body background="https://www.bing.com/images/search?view=detailV2&ccid=a2%2fNR7s5&id=4D011075DFE889FA01DD5AF9B2E494059712A2C3&thid=OIP.a2_NR7s5LMver19488dT_wHaEK&mediaurl=http%3a%2f%2fwallsdesk.com%2fwp-content%2fuploads%2f2016%2f11%2fAlan-Walker-Wallpapers.jpg&exph=2160&expw=3840&q=alan+walker+symbol&simid=608029383161023955&selectedIndex=31">
+    <body background="https://www.bing.com/images/search?q=EDM+Rave&FORM=IRIBIP">
       <br><br><br><center><h1><b><font face="Kristen ITC" color="red">Listen to THE Alan_walker</font></b></h1></center>
       <hr>
       <center><h2><a href="https://www.youtube.com/user/DjWalkzz/videos?sort=dd&view=0&shelf_id=0">Alan Walker</a></h2></center>
@@ -25,5 +25,5 @@
       <a href="https://www.youtube.com/user/PewDiePie">Unsubscribe PewDiePie</a></h2>
       <hr>
       <br><br>
-      <h3>Mail me to add more links of ur like-meharthakur2003@gmail.com / thakurmehar2003@gmail.com </h3>
+      <h3>Mail me to add more links of your like-meharthakur2003@gmail.com / thakurmehar2003@gmail.com </h3>
    
